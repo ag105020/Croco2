@@ -69,7 +69,7 @@ def ModelRun(NfixFactor):
     #OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
     # Reading data
     #OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-    data = gft('DataMasuda2013_nan1')[:-1].T
+    data = gft('DataMasuda2013_nan2')[:-1].T
     
     #OOOOOOOOOOOOOOOOOOOOOOOOOOOOO
     # Boundary conditions
